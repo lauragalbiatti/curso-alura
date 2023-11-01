@@ -1,0 +1,68 @@
+margin {padding: 0%; 
+margin: 0%;
+}
+.corpo{
+background-color: #011246;
+}
+
+.Title { color: #cd0232;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+margin-top: 70px;
+}
+
+.username{ 
+    border-radius: 10px;
+    box-shadow: 3px 3px #9fb6c4;
+    border: none;
+}
+
+.password {
+    border-radius: 10px;
+    box-shadow: 3px 3px #9fb6c4;
+    border: none;
+}
+
+.next {
+    margin-top: 60px;
+    width: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.email{ 
+    margin-top: 10px;
+    text-align: center;
+}
+
+.senha {
+    margin-top: 15px;
+    text-align: center;
+}
+
+button { 
+    box-shadow: 7px 10px #7e283c;
+    cursor: pointer;
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #cd0232;
+    color: #f8f7f3;
+    border: none;
+}
+
+.Username {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FE9B67;
+}
+
+.Password {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FE9B67;
+}
+
+.lupa {
+    height: 15px;
+    
+}
